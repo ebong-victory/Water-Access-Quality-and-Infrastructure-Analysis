@@ -1,4 +1,6 @@
 # Water-Access-Quality-and-Infrastructure-Analysis
-This project focuses on cleaning data stored in a MySQL server and then analysing that data to gain insights into the reality on ground.
-The aim of this project is to determine the level of water access in a particular region and determine ways to improve basic access to water supply among inhabitants.
-This information would be passed on to key stakeholders for decision-making.
+This project focuses on cleaning collected data and analysing it to gather adequate insight into the reality on ground using MySQL. 
+It also encompasses further data cleaning and analysis with MS Power BI.
+Finally, it covers reporting the findings from the analysis using dashboards built with Power BI.
+The information gained from this is passed on to key stakeholders to aid them in understanding the current situation 
+as relating to water access and help them make data-driven decisions that would yield expected results.
